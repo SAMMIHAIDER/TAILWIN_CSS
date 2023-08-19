@@ -1,0 +1,34 @@
+1---> what is tailwind css ?
+                        i>----
+                              you make classes or component in tailwind css 
+                        ii>--- 
+                               you can custom design in tailwind css framework
+                        iii>---
+                                no pre-built component in tailwind css
+                        iv>----
+                                full freedom you make component and class in tailwind css
+                        v>----
+                                highly customizable
+
+2---> Advantage of tailwind css ?
+                              
+                            i>---
+                                   no need write more custom css 
+                            ii>---
+                                   easy design using tailwind
+                            iii>---
+                                   better developer experience
+                            iV>---
+                                   mobile first design from the start
+                            V>---
+                                   A "Polished" and "design" look and feel
+
+3---> tailwind css "Vs" Bootstrap ?
+
+                                i>---
+                                      easy design using tailwind
+                                ii>---
+                                      no pre-built component in tailwind css  
+                                iii>---
+                                        highly customizable    
+                                      
